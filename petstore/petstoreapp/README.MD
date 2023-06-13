@@ -1,4 +1,5 @@
-Sample text to kick off the github action to build/deploy to ACR/App Service
+1. Sample text to kick off the github action to build/deploy to ACR/App Service
+2. Sample text to kick off the github action to build/deploy to ACR/App Service
 
 PetStoreApp is the front facing Java Spring Boot Web Application used in the Azure Pet Store Reference Guide.
 
